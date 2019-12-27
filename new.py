@@ -1,7 +1,7 @@
 a=6
 b=6
-c=6
-f=6
+c=4
+f=8
 def sum(a,b,c):
     d = a+b+c
     return d
