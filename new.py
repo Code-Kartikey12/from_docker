@@ -1,6 +1,6 @@
 a=6
 b=6
-c=4
+c=33
 f=8
 def sum(a,b,c):
     d = a+b+c
